@@ -97,7 +97,7 @@ versionChecker = true -- Set to false to disable version checker
 -- Don't touch
 resourcename = "BugreportUI"
 version = "1.1.0"
-rawVersionLink = "https://raw.githubusercontent.com/Swqppingg/BugreportUI/main/version.txt"
+rawVersionLink = "https://github.com/SnowyyNL"
 
 
 -- Check for version updates.
